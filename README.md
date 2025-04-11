@@ -1,7 +1,8 @@
 # Endgrab
 
 **Endgrab** is a lightweight Python tool to automatically scan and extract endpoints (such as APIs or sensitive paths) from JavaScript files found on websites. This is useful for recon, bug hunting, and understanding web app behavior during pentests.
-
+---
+Made by Indonesiancodeparty
 ---
 
 ## 🔧 Features

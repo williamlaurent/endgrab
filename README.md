@@ -4,6 +4,7 @@
 
 ---
 Made by Indonesiancodeparty
+Thanks to @agussetyar (Indoxploit) for NUXT.JS Idea Payload
 
 ## 🔧 Features
 
